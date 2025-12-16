@@ -8,6 +8,7 @@ project:
     - Joe Forth
   toc:
     - file: intro.md
+    - title: Chemical Data
       children:
       - file: 1-chem_data\descriptors-similarity.md
 site:
