@@ -1,0 +1,42 @@
+{
+  "input": {
+    "files": [],
+    "opts": {
+      "execute": false,
+      "pdf": true,
+      "tex": false,
+      "typst": false,
+      "docx": false,
+      "md": false,
+      "xml": false,
+      "meca": false,
+      "cff": false,
+      "site": false,
+      "html": false,
+      "all": false,
+      "doiBib": false,
+      "watch": false,
+      "force": false,
+      "checkLinks": false,
+      "strict": false,
+      "ci": false,
+      "maxSizeWebp": 1572864,
+      "keepHost": false
+    }
+  },
+  "exports": [
+    {
+      "format": "pdf",
+      "template": "plain_latex_book",
+      "output": "C:\\Users\\jwforth\\Desktop\\GitHub\\joebook\\exports\\book.pdf",
+      "articles": [
+        {
+          "file": "C:\\Users\\jwforth\\Desktop\\GitHub\\joebook\\intro.md",
+          "level": 1
+        }
+      ],
+      "$file": "C:\\Users\\jwforth\\Desktop\\GitHub\\joebook\\myst.yml",
+      "$project": "C:\\Users\\jwforth\\Desktop\\GitHub\\joebook"
+    }
+  ]
+}
