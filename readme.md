@@ -1,10 +1,10 @@
-This repo will host book content for CHEM502 Chemical Data, Discovery and Design.
+This repo hosts the book for CHEM502 Chemical Data, Discovery and Design.
 
 The book uses [Jupyter Book](https://jupyterbook.org/en/stable/intro.html)
 
-The module book is available at https://joeforth.github.io/chem502_book/.
+The book itself can be viewed at https://joeforth.github.io/chem502_book/.
 
-To create a conda environment, use the environment.yml file.
+To create a conda environment that can run the notebooks out-of-the-box, use the environment.yml file with the command:
 
 `conda env create --file environment.yml`
 
