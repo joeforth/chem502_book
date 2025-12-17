@@ -15,26 +15,26 @@ project:
       output: exports/book.pdf
   toc:
     - file: intro.md
-    - title: Part 2 - Chemical Data
+    - title: Part 1 - Chemical Data
       children:
-        - file: 1-chem_data\descriptors-similarity.md
+        - file: 1-chem_data/descriptors-similarity.md
           children:
-            - file: 1-chem_data\fingerprints.ipynb
-        - file: 1-chem_data\spectrum_analysis.ipynb
+            - file: 1-chem_data/fingerprints.ipynb
+        - file: 1-chem_data/spectrum_analysis.ipynb
           children:
-            - file: 1-chem_data\least_squares_opt.md
+            - file: 1-chem_data/least_squares_opt.md
     - title: Part 2 - Data Fundamentals
       children:
-        - file: 2-data_fundamentals\eda.md
-        - file: 2-data_fundamentals\eda_visualisation.ipynb
-        - file: workshop_files\eda_workshop.ipynb
+        - file: 2-data_fundamentals/eda.md
+        - file: 2-data_fundamentals/eda_visualisation.ipynb
+        - file: workshop_files/eda_workshop.ipynb
     - title: Part 3 - Intro to Machine Learning
       children:
-        - file: 3-ml_intro\ml_intro.md
-        - file: 3-ml_intro\ML_demo.ipynb
+        - file: 3-ml_intro/ml_intro.md
+        - file: 3-ml_intro/ML_demo.ipynb
     - title: Part 4 - Data in the Digital Chemistry Lab
       children:
-        - file: workshop_files\lab_data_structure.ipynb
+        - file: workshop_files/lab_data_structure.ipynb
 site:
   options:
     logo: assets/images/c3d_logo_white.png
