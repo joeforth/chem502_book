@@ -11,5 +11,10 @@ project:
     - title: Chemical Data
       children:
       - file: 1-chem_data\descriptors-similarity.md
+        children:
+          - file: 1-chem_data\fingerprints.ipynb
+      - file: 1-chem_data\spectrum_analysis.ipynb
+        children:
+          - file: 1-chem_data\least_squares_opt.md
 site:
   template: book-theme
