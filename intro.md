@@ -4,7 +4,7 @@
 
 This book hopefully acts as the main resource for content for the first half of CHEM502.
 
-This book was originally written by Sam Chong and is now maintained and updated by Joe Forth. Please let me (Joe - j.forth@liverpool.ac.uk) know if you spot any errors, cannot access any of the expected content, have suggestions for additional content or resources to include.
+This book was originally written by Sam Chong and is now maintained and updated by Joe Forth. Please let Joe (j.forth@liverpool.ac.uk) know if you spot any errors, cannot access any of the expected content, have suggestions for additional content or resources to include.
 
 You can access the GitHub repository containing the markdown files and notebooks [here](https://github.com/joeforth/joebook). The code is available in the `book` directory and is broken down into topics.
 
