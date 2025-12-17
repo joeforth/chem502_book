@@ -9,6 +9,8 @@ project:
   authors:
     - Sam Chong
     - Joe Forth
+  exclude:
+    - readme.md
   bibliography:
     - references.bib
   toc:
